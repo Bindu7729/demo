@@ -23,4 +23,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bindu7729/demo/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Bindu7729/demo/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Bindu7729/demo/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Bindu7729/demo/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
