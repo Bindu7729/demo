@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Bindu7729/demo/tree/master/2408-number-of-people-aware-of-a-secret) |
+## String
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Bindu7729/demo/tree/master/2887-sort-vowels-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/Bindu7729/demo/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
