@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Bindu7729/demo/tree/master/1006-vowel-spellchecker) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Bindu7729/demo/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3797-design-spreadsheet](https://github.com/Bindu7729/demo/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Bindu7729/demo/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/Bindu7729/demo/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Bindu7729/demo/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Bindu7729/demo/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bindu7729/demo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -57,9 +59,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Bindu7729/demo/tree/master/1006-vowel-spellchecker) |
+| [3797-design-spreadsheet](https://github.com/Bindu7729/demo/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bindu7729/demo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Bindu7729/demo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/Bindu7729/demo/tree/master/3797-design-spreadsheet) |
+## Matrix
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/Bindu7729/demo/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
